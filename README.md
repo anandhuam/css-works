@@ -1,1 +1,1 @@
-# css-works
+This repository contains simple CSS projects and style experiments.
