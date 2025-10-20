@@ -1,0 +1,14 @@
+.head{
+    color: rgb(250, 22, 22);
+    background-color: rgb(187, 207, 98);
+    text-align: center;
+    padding: 20px;
+    font-size: 2rem;
+}
+
+p{
+    text-align: center;
+    margin: 50px;
+    font-size: 1.5rem;
+    font-weight: 600;
+}

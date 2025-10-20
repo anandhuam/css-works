@@ -1,0 +1,58 @@
+
+body{
+    background-color: rgb(168, 206, 240);
+}
+
+a{
+    text-decoration: none;
+    font-size: 1.3rem;
+    margin: 100px;
+    color: black;
+}
+a:hover{
+     text-decoration: underline;
+    font-size: 1.3rem;
+    margin: 100px;
+    color: rgb(16, 38, 235);
+
+}
+
+
+
+
+/* Button */
+  button {
+      color: white;
+      background: linear-gradient(45deg, #3a3a3a, #5c5c5c);
+      border: none;
+      border-radius: 5px;
+      padding: 10px 20px;
+      font-size: 16px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+
+    button:hover {
+      color: rgb(0, 0, 0);
+      background: linear-gradient(45deg, #51911e, #59be68);
+    }
+
+
+
+/* when click */
+    button:active {
+      color: rgb(0, 0, 0);
+      background: linear-gradient(45deg, #6ce40a, #1cac32);
+      transform: scaleX(0.9); 
+    }
+
+
+p{
+    margin: 100px;
+
+}
+
+p:hover{
+    font-size: larger;
+    transition: 1.3s;
+}
